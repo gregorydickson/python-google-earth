@@ -1,0 +1,3 @@
+Converting to Latitude-Longitude from Degrees-Minutes-Seconds to Decimal
+
+The formula is: Degrees+(minutes/60)+(seconds/3600)
